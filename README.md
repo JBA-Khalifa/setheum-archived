@@ -1,7 +1,7 @@
-# Setheum Substrate Chain
+# Setheum Substrate Chain [Archived]
+**The main/active repo is [Setheum](https://github.com/Setheum-Labs/setheum)**
 
-The Setheum Node Implementation Build With Substrate, ready for hacking. This node includes:
-
+The Setheum Node Implementation Build With Substrate, ready for hacking. This node is archived and discontinued
 **Testnet coming soon!**
 
 ## Build
